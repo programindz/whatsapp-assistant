@@ -5,3 +5,4 @@ setuptools-rust==1.9.0
 fastapi==0.110.2
 uvicorn==0.23.2
 python-multipart==0.0.6
+python-dotenv==1.0.0
