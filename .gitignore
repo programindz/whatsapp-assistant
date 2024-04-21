@@ -1,0 +1,4 @@
+audios/
+Dockerfile
+*.pyc
+.env
